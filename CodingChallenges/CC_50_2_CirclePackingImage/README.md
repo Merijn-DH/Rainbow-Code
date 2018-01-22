@@ -3,7 +3,4 @@
 * Part 2: https://youtu.be/ERQcYaaZ6F0?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
 
 ## Community Variations
-
-#### By: [romibi](https://github.com/romibi) , [Repository](https://github.com/romibi/Processing-Playground/tree/master/CC_50_2_CirclePackingImage)  
-![loading](https://github.com/romibi/Processing-Playground/raw/master/CC_50_2_CirclePackingImage/CC_50_2_CirclePackingImage.gif)  
-Fade out circles after time and use camera...
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/50.2-circlepackingimage.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
