@@ -10,22 +10,4 @@ Wikipedia page for the Snake Game: https://en.wikipedia.org/wiki/Snake_(video_ga
 
 ## Community Variations
 
-### By: [strikemike2k](https://github.com/strikemike2k)
-[Repository](https://github.com/strikemike2k/snake) | [Demo](https://strikemike2k.github.io/snake/)
-
-Included features:
-- Queue the controls into an array to prevent more than one turn being activated per frame causing only the last control to run
-- Added simple scoring and highscore
-- Multiple food options at the same time
-***
-
-### By: [bjorvack](https://github.com/bjorvack)
-[Repository](https://github.com/bjorvack/code-challenges/tree/master/challenges/cc-003-snake) | [Demo](https://bjorvack.github.io/code-challenges/challenges/cc-003-snake/)
-
-Reworked snake in ES6
-***
-
-### By: [elena-in-code](https://github.com/elena-in-code)
-[Repository](https://github.com/elena-in-code/Snake-Game) | [Demo](https://elena-in-code.github.io/Snake-Game/)
-
-***
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/03-snake-game-p5.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
