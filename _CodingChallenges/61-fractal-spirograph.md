@@ -15,6 +15,30 @@ videos:
 - title: "My Coding Challenge on 2D Solar System"
   video_id: "l8SiJ-RmeHU"
 
+contributions:
+  - title: "Render large images"
+    author:
+      name: "JosefKuchar"
+      url: "https://github.com/JosefKuchar"
+    url: "https://josefkuchar.github.io/p5-projects/CC_61_fractal_spirograph_large_render/"
+    source: "https://github.com/JosefKuchar/p5-projects/tree/master/CC_61_fractal_spirograph_large_render"
+  - title: "Rainbow fractal in p5.js"
+    author:
+      name: "Zalastax"
+      url: "https://github.com/Zalastax"
+    url: "https://zalastax.github.io/p5js-projects/CC_61_fractal_spirograph_rainbow/"
+    source: "https://github.com/Zalastax/p5js-projects/tree/master/CC_61_fractal_spirograph_rainbow"
+  - title: "Multiple rainbow fractals (performant) in p5.js/typescript"
+    author:
+      name: "Gaweph"
+      url: "https://github.com/Gaweph"
+    url: "https://gaweph.github.io/CodingTrain-RainbowCode-Challenges/Fractal_spirograph_p5/"
+    source: "https://github.com/Gaweph/CodingTrain-RainbowCode-Challenges/tree/master/Fractal_spirograph_p5"
+  - title: "Multiple colored in Fractals"
+    author:
+      name: "ColeNOXyd2nds"
+      url: "https://github.com/ColeNOXyd2nds"
+    url: "https://github.com/ColeNOXyd2nd/fractal"
   
 ---
 
