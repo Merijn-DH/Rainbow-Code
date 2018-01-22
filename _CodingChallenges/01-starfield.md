@@ -15,6 +15,11 @@ contributions:
       name: "Bob Voorneveld"
       url: "https://www.bobvoorneveld.nl"
     url: "https://github.com/bobvoorneveld/Coding-Challenges/tree/master/CC001-Starfield"
+  - title: "ES6 version"
+    author:
+      name: "bjorvack"
+      url: "https://github.com/bjorvack"
+    url: "https://bjorvack.github.io/code-challenges/challenges/cc-001-starfield/"
 
 ---
 

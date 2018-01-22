@@ -17,9 +17,4 @@ Videos for this challenge:
 
 ## Community Variations
 
-### By: [LFSousa](https://github.com/LFSousa)
-[Repository](https://github.com/LFSousa/p5-samples/tree/master/MazeGen) | [Demo](http://p5-samples.filipe.xyz/MazeGen/)
-
-Included features:
-- Added a solve button to execute a solving algorithm and draw a line in the best path
-***
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/10.1-maze-dfs-p5.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide

@@ -9,8 +9,6 @@ Traveling Salesperson Challenge
 | [Video 4](https://www.youtube.com/watch?v=M3KTWnTrU_c) |
 | [Video 5](https://www.youtube.com/watch?v=hnxn6DtLYcY) |
 
-Other Versions Of This Project
+Community Variations
 ------
-| Creator | Repo | Demo |
-| --- | --- | --- |
-| [Storealutes](https://github.com/storealutes) | [TSM Algo Compare](https://github.com/storealutes/travelingSalesMen) | [Live Demo](http://chaseacton.com/sterling/tsm/) |
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/35.1-tsp.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide

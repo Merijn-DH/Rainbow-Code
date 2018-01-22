@@ -2,5 +2,4 @@
 
 
 ## Community Editions
-- Add your version here
-- Lugsole's contribution on [View Online](https://lugsole.github.io/TOR_MAP/) & [Source Code](https://github.com/Lugsole/TOR_MAP)
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/57-mapping-earthquake-data.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide

@@ -5,4 +5,4 @@ Original coding challenge:
 * [Part 2](https://www.youtube.com/watch?v=xTTuih7P0c0&index=59&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
 ## Community contributions
-* Davenewt's version [playable in the browser](https://davenewt.github.io/p5-asteroids/) and [project on GitHub](https://github.com/davenewt/p5-asteroids)
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/46.1-asteroids-part-1.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide

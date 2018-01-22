@@ -1,8 +1,3 @@
 # Community Variations
 
-### By: [toferj](https://github.com/toferj)
-[Repository](https://github.com/toferj/p5js/tree/master/fireworks)
-
-Included features:
-- Hearts <3
-***
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/27-fireworks.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
