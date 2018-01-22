@@ -8,6 +8,4 @@ Phyllotaxis
 
 Community Versions Of This Challenge
 ------
-| Creator | Repo | Demo |
-| --- | --- | --- |
-| [Fraasi](https://github.com/fraasi) | [Leaf Arrangement](https://github.com/Fraasi/Phyllotaxis-leaf-arrangement) | [Live Demo](https://fraasi.github.io/Phyllotaxis-leaf-arrangement/PhylloTaxis.html) |
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/30-phyllotaxis.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
