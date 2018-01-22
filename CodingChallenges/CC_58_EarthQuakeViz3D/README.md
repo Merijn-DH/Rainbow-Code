@@ -1,3 +1,3 @@
 # Community Variations
 
-* [Tadimon's aligned texture](https://github.com/tadimon/Rainbow-Code/tree/master/challenges/CC_58_EarthQuakeViz3D)
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/58-earthquakeviz3d.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
