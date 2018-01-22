@@ -9,6 +9,4 @@ Videos for this challenge:
   * Coding the visualization
 
 # Community Variations
-
-* [OtterTricks's visualization using steering behaviors, click to add random nodes](https://ottertricks.github.io/sketches/bintree/)
-* [Simon Tiger's visualization with the tree growing from the bottom and hiding the numbers](https://simon-tiger.github.io/binary-tree/index.html)
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/65.2-binary-tree-viz.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
