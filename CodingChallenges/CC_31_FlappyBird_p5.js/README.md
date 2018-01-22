@@ -1,11 +1,7 @@
-***Welcome to the Repo for Dan Shiffman's p5.js Flappy Bird!***
+# Coding Challenge 31: Flappy Bird!
 
-[Coding Challenge #31 on YouTube](https://www.youtube.com/watch?v=cXgA1d_E-jY)
+[Edited video](https://www.youtube.com/watch?v=cXgA1d_E-jY)
 
-**Community Examples**
+## Community Variations
 
-B New (Red Hen dev) [No Man's Flappycraft](http://www.redhendev.com/NoMansFlappyCraft/) 
-
-[Flappy Shiffman](https://bhamshu.github.io/flappy-shiffman/index.html) by Shubham.
-
-**Made a version? Add you own link :)**
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/31-flappybird.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
