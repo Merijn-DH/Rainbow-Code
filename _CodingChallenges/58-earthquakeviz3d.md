@@ -26,6 +26,13 @@ videos:
   video_id: "ZiYdOwOrGyc"
   author: "The Coding Train"
   
+contributions:
+  - title: "Aligned texture"
+    author:
+      name: "Tadimon"
+      url: "https://github.com/tadimon"
+    url: "https://github.com/tadimon/Rainbow-Code/tree/master/challenges/CC_58_EarthQuakeViz3D"
+  
 ---
 
 In this coding challenge, I follow up on the Earthquake Data Visualization challenge and create a 3D version in Processing(Java) using spherical coordinates. I also discuss some 3D vector math including the cross product.
