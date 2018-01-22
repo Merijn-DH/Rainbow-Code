@@ -4,4 +4,4 @@
 
 ## Community Editions
 
-bjorvack: [ES6 version](https://bjorvack.github.io/code-challenges/challenges/cc-001-starfield/)
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/01-starfield.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
