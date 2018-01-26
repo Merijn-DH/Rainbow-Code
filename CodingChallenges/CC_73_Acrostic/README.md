@@ -4,4 +4,4 @@
 
 
 ## Community Editions
-* Be the first to submit your version for inclusion by making a Pull Request of this readme.
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/73-acrostic.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
