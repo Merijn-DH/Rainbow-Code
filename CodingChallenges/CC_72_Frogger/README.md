@@ -5,6 +5,4 @@
 
 ## Community Variations
 
-#### By: [Jaysonmaw](https://github.com/silver-line/) , [Repository](https://github.com/silver-line/Frogger-Processing)
-![Loading gif...](https://github.com/silver-line/Frogger-Processing/raw/master/frogger_230x310px.gif)
-Frogger in Processing, Added colors, simple graphics, Randomly generated levels.
+You can add a community contribution to this coding challenge's [webpage](http://codingtrain.github.io/Rainbow-Code/CodingChallenges/72.1-frogger.html) by following this guide: https://github.com/CodingTrain/Rainbow-Code/wiki/Community-Contributions-Guide
